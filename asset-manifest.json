@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/Chirp/static/js/app.907c95e8.chunk.js",
+    "app.js.map": "/Chirp/static/js/app.907c95e8.chunk.js.map",
+    "runtime~app.js": "/Chirp/static/js/runtime~app.ff52266e.js",
+    "runtime~app.js.map": "/Chirp/static/js/runtime~app.ff52266e.js.map",
+    "static/js/2.9cb3ca91.chunk.js": "/Chirp/static/js/2.9cb3ca91.chunk.js",
+    "static/js/2.9cb3ca91.chunk.js.map": "/Chirp/static/js/2.9cb3ca91.chunk.js.map",
+    "fonts/AntDesign.ttf": "/Chirp/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/Chirp/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/Chirp/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/Chirp/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/Chirp/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/Chirp/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/Chirp/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/Chirp/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/Chirp/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/Chirp/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/Chirp/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/Chirp/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/Chirp/favicon-16.png",
+    "favicon-32.png": "/Chirp/favicon-32.png",
+    "favicon.ico": "/Chirp/favicon.ico",
+    "index.html": "/Chirp/index.html",
+    "manifest.json": "/Chirp/manifest.json",
+    "serve.json": "/Chirp/serve.json",
+    "static/js/2.9cb3ca91.chunk.js.LICENSE.txt": "/Chirp/static/js/2.9cb3ca91.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/Chirp/static/media/bell.cf04af27.png",
+    "static/media/fav-icon.png": "/Chirp/static/media/fav-icon.6c4588c8.png",
+    "static/media/heart.png": "/Chirp/static/media/heart.23b5c2c0.png",
+    "static/media/rocket.png": "/Chirp/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/Chirp/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ff52266e.js",
+    "static/js/2.9cb3ca91.chunk.js",
+    "static/js/app.907c95e8.chunk.js"
+  ]
+}
